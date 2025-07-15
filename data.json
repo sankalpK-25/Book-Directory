@@ -1,0 +1,72 @@
+[
+  {
+    "id": 151,
+    "title": "bad habbits 1",
+    "genre": "phylosophy",
+    "author": "someone",
+    "year": "20XX"
+  },
+  {
+    "id": 754,
+    "title": "bad habbits 2",
+    "genre": "phylosophy",
+    "author": "someone",
+    "year": "20XX"
+  },
+  {
+    "id": 686,
+    "title": "bad habbits 3",
+    "genre": "phylosophy",
+    "author": "someone",
+    "year": "20XX"
+  },
+  {
+    "id": 384,
+    "title": "bad habbits 4",
+    "genre": "phylosophy",
+    "author": "someone",
+    "year": "20XX"
+  },
+  {
+    "id": 603,
+    "title": "bad habbits 5",
+    "genre": "phylosophy",
+    "author": "someone",
+    "year": "20XX"
+  },
+  {
+    "id": 829,
+    "title": "book of mysteries",
+    "genre": "thriller",
+    "author": "Me",
+    "year": "1890"
+  },
+  {
+    "id": 562,
+    "title": "book 2",
+    "genre": "thriller",
+    "author": "Me",
+    "year": "1235"
+  },
+  {
+    "id": 367,
+    "title": "book 3",
+    "genre": "thriller",
+    "author": "Me",
+    "year": "2035"
+  },
+  {
+    "id": 148,
+    "title": "book 3",
+    "genre": "thriller",
+    "author": "Me",
+    "year": "2035"
+  },
+  {
+    "id": 925,
+    "title": "book 3",
+    "genre": "thriller",
+    "author": "Me",
+    "year": "2035"
+  }
+]
