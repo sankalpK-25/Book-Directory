@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+   <form method="POST" action="/">
+    <button type="submit">Add Books</button>
+   </form>
+
+    <h1>All Books:</h1>
+
+    <ul>
+        <% books.forEach(book => { %>
+         <li><%=book.bookNo%>. <%= book.title %> - <%= book.genre %> - <%= book.author%> - <%= book.year%></li>
+        <% }); %>
+    </ul>
+</body>
+</html>
